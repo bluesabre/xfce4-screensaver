@@ -1,3 +1,9 @@
+**!!! THIS REPOSITORY IS ARCHIVED !!!**\
+Xfce Screensaver has moved to the Xfce infrastructure.
+- [Git](https://git.xfce.org/apps/xfce4-screensaver/)
+- [Bugzilla](https://bugzilla.xfce.org/buglist.cgi?component=General&product=Xfce4-screensaver)
+- [Documentation](https://docs.xfce.org/apps/screensaver/start)
+
 Xfce Screensaver
 ================
 
